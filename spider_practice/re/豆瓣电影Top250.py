@@ -1,8 +1,9 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/4/18 8:14 下午
-# @Author : wuwentao
+# @Author : WyntonAB
 # @File : 豆瓣电影Top250.py
 # @Software : PyCharm
+
 import requests
 import re
 import csv
