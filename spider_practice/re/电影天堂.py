@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/4/17 9:45 下午
-# @Author : wuwentao
+# @Author : WyntonAB
 # @File : 电影天堂.py
 # @Software : PyCharm
 import requests
