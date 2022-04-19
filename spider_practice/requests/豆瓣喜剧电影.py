@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/4/17 9:20 下午
-# @Author : wuwentao
+# @Author : WyntonAB
 # @File : 豆瓣喜剧电影.py
 # @Software : PyCharm
 import requests
